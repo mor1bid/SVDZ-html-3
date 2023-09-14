@@ -1,0 +1,37 @@
+* {
+
+}
+
+.bordertop {
+    height: 114px;
+    width: 1289px;
+    padding: 25px;
+    border: 1px solid steelblue
+    
+    
+}
+
+.bordercat {
+    height: 40px;
+    width: 556px;
+    border: 1px solid lightgreen
+}
+
+.bordermai1 {
+    height: 536px;
+    width: 1274px;
+    border: 1px solid #E99C08;
+}
+
+.bordermai2 {
+    height: 494px;
+    width: 589px;
+    padding: 25px;
+    border: 1px solid #BD0EFB;
+}
+
+.borderbttn {
+    height: 94px;
+    width: 374px;
+    border: 2px solid #FF1DA4;
+}
