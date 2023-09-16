@@ -1,20 +1,21 @@
 * {
-
+    padding: 10px;
+    margin: 0%;
 }
 
 .bordertop {
     height: 114px;
     width: 1289px;
-    padding: 25px;
-    border: 1px solid steelblue
+    border: 1px solid steelblue;
     
     
 }
 
 .bordercat {
+    position: right;
     height: 40px;
     width: 556px;
-    border: 1px solid lightgreen
+    border: 1px solid lightgreen;
 }
 
 .bordermai1 {
@@ -26,12 +27,20 @@
 .bordermai2 {
     height: 494px;
     width: 589px;
-    padding: 25px;
+    padding: 15px;
     border: 1px solid #BD0EFB;
 }
 
 .borderbttn {
+    position: top;
     height: 94px;
     width: 374px;
+    margin: 10px;
     border: 2px solid #FF1DA4;
+}
+
+.borderlogo {
+    height: 158px;
+    width: 1240px;
+    border: 1px solid darkcyan;
 }
