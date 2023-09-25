@@ -16,14 +16,13 @@
 
 .header_menu {
     position: right;
-    margin-top: 75px;
-    padding-right: 30px;
+    padding: 10px;
     height: 40px;
     width: 556px;
     border: 1px solid lightgreen;
 }
 
-.top_content {
+.bordermai1 {
     padding: 10px;
     margin: 10px;
     height: 536px;
@@ -31,14 +30,14 @@
     border: 1px solid #E99C08;
 }
 
-.top_info {
+.bordermai2 {
     padding: 10px;
     height: 494px;
     width: 589px;
     border: 1px solid #BD0EFB;
 }
 
-.top_button {
+.borderbttn {
     position: top;
     padding: 10px;
     height: 94px;
@@ -47,7 +46,7 @@
     border: 2px solid #FF1DA4;
 }
 
-.logo {
+.borderlogo {
     padding: 10px;
     margin: 10px;
     height: 158px;
