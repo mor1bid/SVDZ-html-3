@@ -1,7 +1,8 @@
 * {
     padding: 0px;
     margin: 0px;
-    border: none
+    border: none;
+    text-decoration: none;
 }
 
 .header {
@@ -9,33 +10,35 @@
     margin: 10px;
     height: 114px;
     width: 1289px;
-    border: 1px solid steelblue;
+    /* border: 1px solid steelblue; */
     
     
 }
 
 .header_menu {
     position: right;
-    margin-top: 75px;
-    padding-right: 30px;
+    margin-left: 305px;
+    padding-bottom: 30px;
     height: 40px;
-    width: 556px;
-    border: 1px solid lightgreen;
+    width: 1556px;
+    word-spacing: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 1px solid lightgreen; */
 }
 
 .top_content {
-    padding: 10px;
-    margin: 10px;
+    padding: 30px;
+    margin: 30px;
     height: 536px;
     width: 1274px;
-    border: 1px solid #E99C08;
+    /* border: 1px solid #E99C08; */
 }
 
 .top_info {
     padding: 10px;
     height: 494px;
-    width: 589px;
-    border: 1px solid #BD0EFB;
+    width: 509px;
+    /* border: 1px solid #BD0EFB; */
 }
 
 .top_button {
@@ -44,7 +47,16 @@
     height: 94px;
     width: 374px;
     margin: 10px;
-    border: 2px solid #FF1DA4;
+    /* border: 2px solid #FF1DA4; */
+}
+
+.button {
+    margin: 10px;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    font-size: 25px;
+    color: white;
 }
 
 .logo {
@@ -52,5 +64,55 @@
     margin: 10px;
     height: 158px;
     width: 1240px;
-    border: 1px solid darkcyan;
+    /* border: 1px solid darkcyan; */
+}
+
+.features {
+    width: 1050px;
+    height: 291px;
+}
+
+.features1 {
+    float: left;
+    padding-left: 100px;
+    height: 370px;
+    width: 291px;
+    /* border: 1px solid blue; */
+    margin: 2px;
+}
+
+.icon1 {
+    border-radius: 50px;
+    background-size: 50px;
+    background: rgba(242, 88, 34, 0.5);
+}
+
+.features2 {
+    float: left;
+    padding-left: 100px;
+    height: 370px;
+    width: 291px;
+    /* border: 1px solid blue; */
+    margin: 2px;
+}
+
+.icon2 {
+    border-radius: 50px;
+    background-size: 50px;
+    background: rgba(20, 146, 17, 0.5);;
+}
+
+.features3 {
+    float: left;
+    padding-left: 100px;
+    height: 370px;
+    width: 291px;
+    /* border: 1px solid blue; */
+    margin: 2px;
+}
+
+.icon3 {
+    border-radius: 100px;
+    background-size: 50px;
+    background: rgba(255, 205, 29, 0.5);;
 }
